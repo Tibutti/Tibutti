@@ -13,9 +13,9 @@ My GitHub repositories focus on these areas:
 
 - **Web Development** (4 repos)
 - **Data Science** (4 repos)
+- **Desktop Applications** (4 repos)
 - **API** (4 repos)
 - **Automation** (4 repos)
-- **Desktop Applications** (3 repos)
 
 
 ## 🛠️ My Tech Stack
@@ -92,5 +92,5 @@ My GitHub repositories focus on these areas:
   <br>
   <img src="https://komarev.com/ghpvc/?username=Tibutti&label=Profile+Views" alt="Profile views">
   <br>
-  <i>This profile README is automatically updated using GitHub Actions.<br>Last updated: 2025-05-12</i>
+  <i>This profile README is automatically updated using GitHub Actions.<br>Last updated: 2025-05-13</i>
 </div>
