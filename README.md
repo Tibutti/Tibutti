@@ -50,7 +50,7 @@ My GitHub repositories focus on these areas:
       <td><img alt="Repositories" src="https://img.shields.io/badge/9-4c71f2?style=for-the-badge&logo=github&logoColor=white"/></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/0-FFD700?style=for-the-badge&logo=github&logoColor=white"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/0-4c71f2?style=for-the-badge&logo=github&logoColor=white"/></td>
-      <td><img alt="Followers" src="https://img.shields.io/badge/12-FFD700?style=for-the-badge&logo=github&logoColor=white"/></td>
+      <td><img alt="Followers" src="https://img.shields.io/badge/11-FFD700?style=for-the-badge&logo=github&logoColor=white"/></td>
     </tr>
   </table>
 </div>
@@ -92,5 +92,5 @@ My GitHub repositories focus on these areas:
   <br>
   <img src="https://komarev.com/ghpvc/?username=Tibutti&label=Profile+Views" alt="Profile views">
   <br>
-  <i>This profile README is automatically updated using GitHub Actions.<br>Last updated: 2025-05-15</i>
+  <i>This profile README is automatically updated using GitHub Actions.<br>Last updated: 2025-05-16</i>
 </div>
